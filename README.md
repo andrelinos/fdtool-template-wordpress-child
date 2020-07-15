@@ -1,0 +1,1 @@
+# fdtool-template-wordpress-child
